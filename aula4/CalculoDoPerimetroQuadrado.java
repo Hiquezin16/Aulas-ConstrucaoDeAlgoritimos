@@ -3,8 +3,7 @@ package aula4;
 import java.util.Scanner;
 
 public class CalculoDoPerimetroQuadrado {
-
-    public static void main(String[] args) {
+  public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
 
