@@ -1,2 +1,2 @@
 # Aulas-ConstrucaoDeAlgoritimos
- entras de tarefas 
+ entrega das tarefas
